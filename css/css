@@ -1,0 +1,25 @@
+
+.jumbotron{
+	background-image: url(../img/jumbotron.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	margin: 0px;
+	
+}
+.title{
+	height: 250px;
+}
+.jumbotron> h1,h3{
+	color:#C203F5;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+}
+.theme-border{
+	border-bottom: #C203F5 5px solid;
+}
+.navbar{
+	margin-bottom: 30px;
+}
+.foo-text{
+	color: aliceblue;
+}
